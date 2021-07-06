@@ -11,10 +11,10 @@ h1{
 .button{
     text-decoration: none;
     font-weight: 900;
-    background-image: linear-gradient(skyblue, blue);
+    background-image: linear-gradient(powderblue, deepskyblue);
     border-radius: 5px;
     padding: 15px;
-    color: white;
+    color: black;
 }
 section{
     display: flex;
@@ -26,6 +26,12 @@ section{
 .half-width img{
     width: 100%;
 }
-#nxt{
+.nxt{
     margin-top: 13%;
+}
+.frame{
+    background-image: url(images/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    padding: 0%;
 }
