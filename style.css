@@ -1,0 +1,31 @@
+body{
+    font-family: 'Otomanopee One', sans-serif;
+}
+h1{
+    font-family: 'Otomanopee One', sans-serif;
+    font-size: 50px;
+}
+.blue{
+    color: deepskyblue;
+}
+.button{
+    text-decoration: none;
+    font-weight: 900;
+    background-image: linear-gradient(skyblue, blue);
+    border-radius: 5px;
+    padding: 15px;
+    color: white;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 100%;
+}
+#nxt{
+    margin-top: 13%;
+}
