@@ -49,7 +49,7 @@ h2{
     padding-left: 3%;
     padding-right: 3%;
     padding-top: 2%;
-    box-shadow: 10px 10px 40px skyblue;
+    box-shadow: 10px 10px 40px powderblue;
     border-radius: 7%;
     margin-left: 5%;
     margin-right: 5%;
@@ -73,4 +73,11 @@ p{
 }
 .lp{
     padding-left: 30%;
+}
+footer{
+    text-align: center;
+    color: floralwhite;
+    background-color: black;
+    padding-top: 5%;
+    padding-bottom: 7%;
 }
