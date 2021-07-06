@@ -35,3 +35,42 @@ section{
     width: 100%;
     padding: 0%;
 }
+h2{
+    text-align: center;
+}
+#para{
+    padding-left: 5%;
+}
+#para1{
+    padding-top: 5%;
+}
+.three-width{
+    width: 30%;
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-top: 2%;
+    box-shadow: 10px 10px 40px skyblue;
+    border-radius: 7%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+    margin-top: 5%;
+}
+.three-width img{
+    width: 100%;
+    border-radius: 10%;
+}
+p{
+    text-align: justify;
+    padding-right: 2%;
+}
+#justify{
+    display: flex;
+    width: 100%;
+}
+.threewidth{
+    width: 100%;
+}
+.lp{
+    padding-left: 30%;
+}
