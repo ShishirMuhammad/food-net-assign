@@ -34,6 +34,8 @@ section{
     background-repeat: no-repeat;
     width: 100%;
     padding: 0%;
+    background-size: 100%;
+    margin-top: 5%;
 }
 h2{
     text-align: center;
@@ -80,4 +82,10 @@ footer{
     background-color: black;
     padding-top: 5%;
     padding-bottom: 7%;
+}
+.lp2{
+    padding-left: 20%;
+}
+.cus{
+    width: 150%;
 }
